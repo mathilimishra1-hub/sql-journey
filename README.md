@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="sqlDiagram" src="https://github.com/user-attachments/assets/bf35ec41-c89d-46e7-a094-b13536cce6a7" />
 # sql-journey
 # 🚀 SQL Data Warehouse | Medallion Architecture
 
